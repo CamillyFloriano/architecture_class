@@ -34,4 +34,4 @@ A solução prioriza disponibilidade e resiliência em troca de consistência ev
 
 ## Diagrama de Sequência
 
-![Diagrama](diagramas/diagrama-sequencia.png)
+![Diagrama](diagramas/Microsservico.drawio.png)
