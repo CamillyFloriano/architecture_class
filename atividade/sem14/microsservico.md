@@ -6,7 +6,7 @@ Número de Matrícula: 2312301
 
 ## 1. Diagrama de Sequência ##
 
-![Diagrama](microsservicos.png)
+![Diagrama](Microsservicos.png)
 
 Diagrama de sequência da arquitetura resiliente proposta para o fluxo de checkout da ShopFast, utilizando API Gateway, mensageria assíncrona e Circuit Breaker para aumentar a disponibilidade e evitar falhas em cascata.
 
