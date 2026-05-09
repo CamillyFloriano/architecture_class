@@ -4,9 +4,13 @@ Nome do Aluno: Camilly Christine
 
 Número de Matrícula: 2312301
 
+# Objetivo da Atividade #
+
+Esta atividade tem como objetivo aplicar conceitos de resiliência e tolerância a falhas em sistemas distribuídos, por meio do redesenho arquitetural de um fluxo de e-commerce. Atuando como Arquiteto de Software, a proposta busca solucionar problemas de escalabilidade e disponibilidade causados pela comunicação síncrona entre microsserviços.
+
 ## 1. Diagrama de Sequência ##
 
-![Diagrama](Microsservicos.png)
+![Diagrama](Microsservico.drawio.png)
 
 Diagrama de sequência da arquitetura resiliente proposta para o fluxo de checkout da ShopFast, utilizando API Gateway, mensageria assíncrona e Circuit Breaker para aumentar a disponibilidade e evitar falhas em cascata.
 
